@@ -1,1 +1,2 @@
 prrint
+new class();
